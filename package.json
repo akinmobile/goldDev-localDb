@@ -1,0 +1,34 @@
+{
+  "name": "gold-1.1",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "react-scripts": "0.9.0"
+  },
+  "dependencies": {
+    "angular-input-masks": "^2.5.0",
+    "bluebird": "^3.4.7",
+    "bootstrap": "^3.3.7",
+    "firebase": "^3.6.10",
+    "immutability-helper": "^2.1.2",
+    "jquery": "^3.1.1",
+    "node-uuid": "^1.4.7",
+    "react": "^15.4.2",
+    "react-custom-validation": "^0.5.2",
+    "react-dom": "^15.4.2",
+    "react-maskedinput": "^3.3.4",
+    "react-router": "4.0.0-alpha.5",
+    "validator": "^6.2.1",
+    "webpack": "^1.14.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "landoLabrum",
+  "license": "ISC",
+  "description": ""
+}

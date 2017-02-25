@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/helpers/db-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/components/protected/order/items/AddListItem-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/helpers/db-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/components/protected/order/items/AddListItem-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
